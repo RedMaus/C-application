@@ -1,0 +1,44 @@
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\BL.Tests.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\BL.Tests.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\NSubstitute.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\NSubstitute.xml
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\obj\Debug\BL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\obj\Debug\BL.Tests.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\obj\Debug\BL.Tests.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\BL.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\DAL.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\EntityFramework.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\BL.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\DAL.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\EntityFramework.xml
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\BL.Tests.dll.config
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL.Tests\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\BL.Tests.dll.config
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\BL.Tests.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\BL.Tests.pdb
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\BL.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\DAL.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\EntityFramework.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\EntityFramework.SqlServer.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\NSubstitute.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\nunit.framework.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\BL.pdb
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\DAL.pdb
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\EntityFramework.xml
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\EntityFramework.SqlServer.xml
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\NSubstitute.xml
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\nunit.framework.xml
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\ru\EntityFramework.resources.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+H:\university\Tykh\Pr\Project\BL.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+H:\university\Tykh\Pr\Project\BL.Tests\obj\Debug\BL.Tests.csprojResolveAssemblyReference.cache
+H:\university\Tykh\Pr\Project\BL.Tests\obj\Debug\BL.Tests.dll
+H:\university\Tykh\Pr\Project\BL.Tests\obj\Debug\BL.Tests.pdb

@@ -1,0 +1,36 @@
+H:\university\Tykh\Project\DAL\bin\Debug\DAL.dll.config
+H:\university\Tykh\Project\DAL\bin\Debug\DAL.dll
+H:\university\Tykh\Project\DAL\bin\Debug\DAL.pdb
+H:\university\Tykh\Project\DAL\bin\Debug\EntityFramework.dll
+H:\university\Tykh\Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+H:\university\Tykh\Project\DAL\bin\Debug\EntityFramework.xml
+H:\university\Tykh\Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+H:\university\Tykh\Project\DAL\bin\Debug\ru\EntityFramework.resources.dll
+H:\university\Tykh\Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\university\Tykh\Project\DAL\obj\Debug\DAL.dll
+H:\university\Tykh\Project\DAL\obj\Debug\DAL.pdb
+H:\university\Tykh\Project\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\bin\Debug\DAL.dll.config
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\bin\Debug\DAL.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\bin\Debug\DAL.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\bin\Debug\EntityFramework.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\bin\Debug\EntityFramework.xml
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\obj\Debug\DAL.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\DAL\obj\Debug\DAL.pdb
+H:\university\Tykh\Pr\Project\DAL\bin\Debug\DAL.dll.config
+H:\university\Tykh\Pr\Project\DAL\bin\Debug\DAL.dll
+H:\university\Tykh\Pr\Project\DAL\bin\Debug\DAL.pdb
+H:\university\Tykh\Pr\Project\DAL\bin\Debug\EntityFramework.dll
+H:\university\Tykh\Pr\Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+H:\university\Tykh\Pr\Project\DAL\bin\Debug\EntityFramework.xml
+H:\university\Tykh\Pr\Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+H:\university\Tykh\Pr\Project\DAL\bin\Debug\ru\EntityFramework.resources.dll
+H:\university\Tykh\Pr\Project\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+H:\university\Tykh\Pr\Project\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\university\Tykh\Pr\Project\DAL\obj\Debug\DAL.dll
+H:\university\Tykh\Pr\Project\DAL\obj\Debug\DAL.pdb

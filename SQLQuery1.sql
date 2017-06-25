@@ -1,0 +1,7 @@
+﻿Create TAble adminin(adminId int PRIMARY KEY, FIO varchar(255))
+Create TAble chat(chatId int PRIMARY KEY, namechat varchar(255))
+Create TAble task(taskID int PRIMARY KEY, name varchar(255),state varchar(255),date_start int,date_end int,checkList varchar(255))
+Create TAble comand(comandId int PRIMARY KEY, taskID int Foreign key references task(taskID),chatidID int Foreign key references chat(chatId),adminID int Foreign key references adminin(adminId))
+Create TAble employee(emplId int PRIMARY KEY, FIO varchar(255),comandId int Foreign key references comand(comandId))
+Create TAble messager(messageId int PRIMARY KEY, text_s varchar(255),chatId int Foreign key references chat(chatId),sendId int Foreign key references employee(emplId),data_ot int)
+Create TAble manager(managerId int PRIMARY KEY, FIO varchar(255),comandId int Foreign key references comand(comandId))

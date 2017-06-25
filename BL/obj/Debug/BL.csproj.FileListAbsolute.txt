@@ -1,0 +1,24 @@
+H:\university\Tykh\Project\BL\bin\Debug\BL.dll
+H:\university\Tykh\Project\BL\bin\Debug\BL.pdb
+H:\university\Tykh\Project\BL\bin\Debug\DAL.dll
+H:\university\Tykh\Project\BL\bin\Debug\EntityFramework.dll
+H:\university\Tykh\Project\BL\bin\Debug\DAL.pdb
+H:\university\Tykh\Project\BL\bin\Debug\EntityFramework.xml
+H:\university\Tykh\Project\BL\bin\Debug\ru\EntityFramework.resources.dll
+H:\university\Tykh\Project\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+H:\university\Tykh\Project\BL\obj\Debug\BL.dll
+H:\university\Tykh\Project\BL\obj\Debug\BL.pdb
+H:\university\Tykh\Project\BL\bin\Debug\BL.dll.CodeAnalysisLog.xml
+H:\university\Tykh\Project\BL\bin\Debug\BL.dll.lastcodeanalysissucceeded
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\bin\Debug\BL.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\bin\Debug\BL.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\bin\Debug\DAL.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\bin\Debug\EntityFramework.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\bin\Debug\DAL.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\bin\Debug\EntityFramework.xml
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\obj\Debug\BL.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\obj\Debug\BL.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\bin\Debug\nunit.framework.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\BL\bin\Debug\nunit.framework.xml

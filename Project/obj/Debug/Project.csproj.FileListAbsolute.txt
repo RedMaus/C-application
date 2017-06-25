@@ -1,0 +1,72 @@
+H:\university\Tykh\Project\Project\bin\Debug\Project.exe.config
+H:\university\Tykh\Project\Project\bin\Debug\Project.exe
+H:\university\Tykh\Project\Project\bin\Debug\Project.pdb
+H:\university\Tykh\Project\Project\bin\Debug\DAL.dll
+H:\university\Tykh\Project\Project\bin\Debug\EntityFramework.dll
+H:\university\Tykh\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+H:\university\Tykh\Project\Project\bin\Debug\DAL.pdb
+H:\university\Tykh\Project\Project\bin\Debug\EntityFramework.xml
+H:\university\Tykh\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+H:\university\Tykh\Project\Project\bin\Debug\ru\EntityFramework.resources.dll
+H:\university\Tykh\Project\Project\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+H:\university\Tykh\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+H:\university\Tykh\Project\Project\obj\Debug\Project.Form1.resources
+H:\university\Tykh\Project\Project\obj\Debug\Project.Properties.Resources.resources
+H:\university\Tykh\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+H:\university\Tykh\Project\Project\obj\Debug\Project.exe
+H:\university\Tykh\Project\Project\obj\Debug\Project.pdb
+H:\university\Tykh\Project\Project\bin\Debug\BL.dll
+H:\university\Tykh\Project\Project\bin\Debug\BL.pdb
+H:\university\Tykh\Project\Project\obj\Debug\Project.AddComand.resources
+H:\university\Tykh\Project\Project\obj\Debug\Project.Admin.resources
+H:\university\Tykh\Project\Project\obj\Debug\Project.Employer.resources
+H:\university\Tykh\Project\Project\obj\Debug\Project.Manager.resources
+H:\university\Tykh\Project\Project\obj\Debug\Project.UserAdd.resources
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\BL.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\DAL.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\EntityFramework.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\BL.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\DAL.pdb
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\EntityFramework.xml
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.AddComand.resources
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.Admin.resources
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.Employer.resources
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.Manager.resources
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.UserAdd.resources
+C:\Users\jekki\Downloads\Telegram Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+H:\university\Tykh\Pr\Project\Project\bin\Debug\Project.exe.config
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.exe
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.pdb
+H:\university\Tykh\Pr\Project\Project\bin\Debug\Project.exe
+H:\university\Tykh\Pr\Project\Project\bin\Debug\Project.pdb
+H:\university\Tykh\Pr\Project\Project\bin\Debug\BL.dll
+H:\university\Tykh\Pr\Project\Project\bin\Debug\DAL.dll
+H:\university\Tykh\Pr\Project\Project\bin\Debug\EntityFramework.dll
+H:\university\Tykh\Pr\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+H:\university\Tykh\Pr\Project\Project\bin\Debug\BL.pdb
+H:\university\Tykh\Pr\Project\Project\bin\Debug\DAL.pdb
+H:\university\Tykh\Pr\Project\Project\bin\Debug\EntityFramework.xml
+H:\university\Tykh\Pr\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+H:\university\Tykh\Pr\Project\Project\bin\Debug\ru\EntityFramework.resources.dll
+H:\university\Tykh\Pr\Project\Project\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.AddComand.resources
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.Admin.resources
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.Employer.resources
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.Form1.resources
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.Manager.resources
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.Properties.Resources.resources
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.UserAdd.resources
+H:\university\Tykh\Pr\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
